@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chenning Zhang and I'm current pursuning master degree at Columbia University
+- 👋 Hi, I’m Chenning Zhang and I'm current pursuing master degree at Columbia University
 
 
 <!---
